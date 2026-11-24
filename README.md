@@ -1,4 +1,4 @@
-# HiKana – Japanese voice role-play tutor (demo)
+# Japanese voice role-play tutor (demo)
 
 Browser (Vue) ⇄ WebRTC ⇄ Pipecat bot: Silero VAD → Deepgram STT (ja) → Claude Haiku 5.5 → Cartesia TTS (ja).
 
